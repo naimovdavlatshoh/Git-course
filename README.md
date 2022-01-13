@@ -19,3 +19,5 @@ Git commands:
 
 1. git status -WTF
 2. git add file_name or git add .(all) - tracking
+
+
